@@ -9,4 +9,13 @@
 }
 #about{
     margin-top: 5vh;
+    margin-bottom: 5vh;
+    justify-content: center;
+    text-align: center;
+}
+#services{
+    background-image: url("../assets/backgrounds/s_image.jpg");
+    text-align: center;
+    justify-content: center;
+    color: white;
 }
