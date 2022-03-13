@@ -1,0 +1,12 @@
+#header{
+    opacity: 0.7;
+    height: 100vh;
+    text-align: center;
+    justify-content: center;
+    background-image: url("../assets/backgrounds/h_img.jpg");
+    background-size: cover;
+    color: white;
+}
+#about{
+    margin-top: 5vh;
+}
