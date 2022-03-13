@@ -72,6 +72,9 @@ footer{
 .copyright{
     margin-top: 4vh;
 }
+#activities h2{
+    margin-bottom: 7vh;
+}
 #des-explainer{
     display: none;
 }
