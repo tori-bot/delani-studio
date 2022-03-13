@@ -74,6 +74,8 @@ footer{
 }
 #activities h2{
     margin-bottom: 7vh;
+    font-weight: bold;
+    text-align: center;
 }
 #des-explainer{
     display: none;
@@ -88,4 +90,28 @@ footer{
 #activities{
     text-align: center;
     justify-content: center;
+}
+#reveal4{
+display: none;
+}
+#reveal3{
+    display: none;
+}
+#reveal2{
+    display: none;
+}
+#reveal1{
+ display: none;   
+}
+#reveal5{
+    display: none;
+}
+#reveal6{
+    display: none;
+}
+#reveal7{
+   display: none; 
+}
+#reveal8{
+    
 }
