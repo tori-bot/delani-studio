@@ -1,11 +1,18 @@
 #header{
-    opacity: 0.7;
     height: 100vh;
     text-align: center;
     justify-content: center;
     background-image: url("../assets/backgrounds/h_img.jpg");
     background-size: cover;
     color: white;
+}
+.logo{
+    margin-top: 7vh;
+    margin-bottom: 5vh;
+}
+.mouse{
+    margin-top: 20vh;
+    margin-bottom: 3vh;
 }
 #about{
     margin-top: 5vh;
@@ -18,4 +25,50 @@
     text-align: center;
     justify-content: center;
     color: white;
+}
+#activities{
+    margin-top: 5vh;
+    margin-bottom: 5vh;
+}
+#portfolio{
+    margin-top: 5vh;
+    margin-bottom: 5vh;
+
+}
+#contact{
+    background-image: url("../assets/backgrounds/c_image.jpg");
+    justify-content: center;
+     margin-top: 10vh;
+}
+#contact h2{
+    text-align: center;
+    color:#FFF;
+    margin-bottom:10vh;
+    
+}
+#name{
+    width: 100%;
+    color: #FFF;
+    background: transparent;
+}
+#email{
+    width: 100%;
+    color: #FFF;
+    background: transparent;
+}
+#message{
+    margin-top: 5vh;
+    width: 100%;
+    color: #FFF;
+    background: transparent;
+}
+footer{
+    text-align: center;
+    justify-content: center;
+}
+.socials{
+    margin-left: 30px;
+}
+.copyright{
+    margin-top: 4vh;
 }
