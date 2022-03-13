@@ -72,3 +72,17 @@ footer{
 .copyright{
     margin-top: 4vh;
 }
+#des-explainer{
+    display: none;
+}
+#dev-explainer{
+    display: none;
+}
+#pm-explainer{
+    display: none;
+}
+
+#activities{
+    text-align: center;
+    justify-content: center;
+}
