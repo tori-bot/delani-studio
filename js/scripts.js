@@ -29,3 +29,14 @@ $(document).ready(function () {
         $("#pm-clickable").show();
     });
 });
+
+$(document).ready(function () {
+    $("#work4").mouseover(function () {
+        $("#reveal4").show();
+    });
+    mouseleave(function () {
+        $("#reveal4").hide();
+    });
+    
+       
+});
