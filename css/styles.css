@@ -1,6 +1,10 @@
+body{
+    font-family: Fredoka;
+}
 h2{
     text-align: center;
     font-weight: bold;
+
 }
 #header{
     height: 100vh;
