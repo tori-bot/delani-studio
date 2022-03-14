@@ -85,4 +85,8 @@ $(document).ready(function(){
     }).mouseout(function(){
       $(".card-body8").hide();
     });
-  });
+});
+  
+$(document).ready(function () {
+    $("#submit").
+})
