@@ -46,6 +46,9 @@
     margin-bottom:10vh;
     
 }
+::placeholder{
+    color:#FFF
+}
 #name{
     width: 100%;
     color: #FFF;
@@ -90,56 +93,87 @@ footer{
 #activities{
     text-align: center;
     justify-content: center;
+ }
+.card-deck{
+    margin-bottom: 5vh;
 }
-#reveal4{
-display: none;
-cursor: pointer;
+.card h3{
+    font-weight: bolder;
+    
+}
+.card-body4{
+    display: none;
+    cursor: pointer;
+    z-index: 4;
+    position: absolute;
+    color: white;
+    padding-top: 18vh;
+    padding-left: 8vw;
+    
+}
+.card-body3{
+    display: none;
+    cursor: pointer;
     z-index: 2;
-    position: fixed;
+    position: absolute;
+    color: black;
+    padding-top: 18vh;
+    padding-left: 5vw;
+}
+.card-body2{
+    display: none;
+    cursor: pointer;
+    z-index: 2;
+    position: absolute;
+    color: white;
+    padding-top: 18vh;
+    padding-left: 6vw;
+}
+.card-body1{
+    display: none;
+    cursor: pointer;
+    z-index: 2;
+    position: absolute;
+    color: white;
+    padding-top: 18vh;
+    padding-left: 6vw;
+}
+.card-body5{
+    display: none;
+    cursor: pointer;
+    z-index: 2;
+    position: absolute;
+    color: white;
+    padding-top: 15vh;
+    padding-left: 8vw;
+}
+.card-body6{
+    display: none;
+    cursor: pointer;
+    z-index: 2;
+    position: absolute;
+    color:black;
+    padding-top: 15vh;
+    padding-left: 6vw;
+}
+.card-body7{
+    display: none;
+    cursor: pointer;
+    z-index: 2;
+    position: absolute;
+    color: white;
+    padding-top: 15vh;
+    padding-left:8vw;
+}
+.card-body8{
+    display: none;
+    cursor: pointer;
+    z-index: 2;
+    position: absolute;
+    color: white;
+    padding-top: 15vh;
+    padding-left: 3vw;
+    
+    
+}
 
-}
-#reveal3{
-    display: none;
-    cursor: pointer;
-    z-index: 2;
-    position: fixed;
-}
-#reveal2{
-    display: none;
-    cursor: pointer;
-    z-index: 2;
-    position: fixed;
-}
-#reveal1{
- display: none; 
- cursor: pointer;
- z-index: 2;
- position: fixed;
-}
-#reveal5{
-    display: none;
-    cursor: pointer;
-    z-index: 2;
-    position: fixed;
-}
-#reveal6{
-    display: none;
-    cursor: pointer;
-    z-index: 2;
-    position: fixed;
-}
-#reveal7{
-   display: none; 
-   cursor: pointer;
-    z-index: 2;
-    position: fixed;
-}
-#reveal8{
-   display: none; 
-   cursor: pointer;
-    z-index: 2;
-    position: fixed;
-}
-#portfolio{
-    column-gap: 30px;
-}
