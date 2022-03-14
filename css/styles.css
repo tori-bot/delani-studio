@@ -39,6 +39,9 @@ h2{
     margin-bottom: 5vh;
 
 }
+#portfolio h2{
+    text-align: center;
+}
 #contact{
     background-image: url("../assets/backgrounds/c_image.jpg");
     justify-content: center;
