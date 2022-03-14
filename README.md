@@ -13,7 +13,7 @@ https://tori-bot.github.io/delani-studio/
 
 
 # known bugs
-It is not fully rsponsive in some devices.
+It is not fully responsive in some devices.
 # technologies used
 * HTML5
 * CSS

@@ -86,7 +86,17 @@ $(document).ready(function(){
       $(".card-body8").hide();
     });
 });
-  
+
 $(document).ready(function () {
-    $("#submit").
-})
+  $("button").click(function () {
+    var client = document.getElementById("name").value;
+    alert(' Dear ' + client + ', we have received your message successfully.');
+    event.preventDefault();
+  });
+
+  $("button").onclick(function () {
+    $('form').each(function () {
+      this.reset();
+    });
+  });
+});
