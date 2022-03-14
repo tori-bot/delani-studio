@@ -21,4 +21,4 @@ It is not fully rsponsive in some devices.
 * Jquery 3.6.0
 * Bootstrap 4.6.0
 # License
-This project is under the [MIT license](license).
+This project is under the [MIT license](license)license.
