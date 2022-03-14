@@ -96,6 +96,8 @@ footer{
  }
 .card-deck{
     margin-bottom: 5vh;
+    margin-left: 5vw;
+    margin-right: 5vw;
 }
 .card h3{
     font-weight: bolder;
@@ -107,8 +109,8 @@ footer{
     z-index: 4;
     position: absolute;
     color: white;
-    padding-top: 18vh;
-    padding-left: 8vw;
+    padding-top: 15vh;
+    padding-left: 7vw;
     
 }
 .card-body3{
@@ -117,8 +119,8 @@ footer{
     z-index: 2;
     position: absolute;
     color: black;
-    padding-top: 18vh;
-    padding-left: 5vw;
+    padding-top: 15vh;
+    padding-left: 3vw;
 }
 .card-body2{
     display: none;
@@ -126,8 +128,8 @@ footer{
     z-index: 2;
     position: absolute;
     color: white;
-    padding-top: 18vh;
-    padding-left: 6vw;
+    padding-top: 15vh;
+    padding-left: 5vw;
 }
 .card-body1{
     display: none;
@@ -135,8 +137,8 @@ footer{
     z-index: 2;
     position: absolute;
     color: white;
-    padding-top: 18vh;
-    padding-left: 6vw;
+    padding-top: 15vh;
+    padding-left: 5vw;
 }
 .card-body5{
     display: none;
@@ -145,7 +147,7 @@ footer{
     position: absolute;
     color: white;
     padding-top: 15vh;
-    padding-left: 8vw;
+    padding-left: 7vw;
 }
 .card-body6{
     display: none;
@@ -154,7 +156,7 @@ footer{
     position: absolute;
     color:black;
     padding-top: 15vh;
-    padding-left: 6vw;
+    padding-left: 5vw;
 }
 .card-body7{
     display: none;
@@ -163,7 +165,7 @@ footer{
     position: absolute;
     color: white;
     padding-top: 15vh;
-    padding-left:8vw;
+    padding-left:6vw;
 }
 .card-body8{
     display: none;
@@ -172,7 +174,7 @@ footer{
     position: absolute;
     color: white;
     padding-top: 15vh;
-    padding-left: 3vw;
+    padding-left: 2vw;
     
     
 }
