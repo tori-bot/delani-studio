@@ -93,25 +93,53 @@ footer{
 }
 #reveal4{
 display: none;
+cursor: pointer;
+    z-index: 2;
+    position: fixed;
+
 }
 #reveal3{
     display: none;
+    cursor: pointer;
+    z-index: 2;
+    position: fixed;
 }
 #reveal2{
     display: none;
+    cursor: pointer;
+    z-index: 2;
+    position: fixed;
 }
 #reveal1{
- display: none;   
+ display: none; 
+ cursor: pointer;
+ z-index: 2;
+ position: fixed;
 }
 #reveal5{
     display: none;
+    cursor: pointer;
+    z-index: 2;
+    position: fixed;
 }
 #reveal6{
     display: none;
+    cursor: pointer;
+    z-index: 2;
+    position: fixed;
 }
 #reveal7{
    display: none; 
+   cursor: pointer;
+    z-index: 2;
+    position: fixed;
 }
 #reveal8{
-    
+   display: none; 
+   cursor: pointer;
+    z-index: 2;
+    position: fixed;
+}
+#portfolio{
+    column-gap: 30px;
 }
