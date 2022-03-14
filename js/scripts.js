@@ -94,7 +94,7 @@ $(document).ready(function () {
     event.preventDefault();
   });
 
-  $("button").onclick(function () {
+  $("button").click(function () {
     $('form').each(function () {
       this.reset();
     });
