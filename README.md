@@ -5,7 +5,7 @@ Victoria Makena
 # description
 This is a fun environment where software developers come together to create amazing applications for the client's needs such as collection of user information through mailchimp.
 # live demo
-
+https://tori-bot.github.io/delani-studio/
 # setup requirements
 * clone this repository
 * install git and run <git clone 'repo'>
